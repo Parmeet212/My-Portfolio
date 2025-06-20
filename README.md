@@ -29,11 +29,11 @@ All styled with a fresh, modern UI using vanilla CSS.
 
 # 🧱 Built With
 
--HTML5 – for semantic structure
+- HTML5 – for semantic structure
 
--CSS3 – for styling and responsive layout
+- CSS3 – for styling and responsive layout
 
--No external libraries or frameworks — perfect for learning!
+- No external libraries or frameworks — perfect for learning!
 
 # 🧑‍💻 Developer Info
 
